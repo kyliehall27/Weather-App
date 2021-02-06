@@ -5,3 +5,7 @@ input {
 .units {
   font-size: 16px;
 }
+
+#open-source-link {
+  margin: 0px 0px 0px 16px;
+}
